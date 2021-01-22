@@ -14,9 +14,7 @@ Welcome to my universe! Here you can find some of my projects and codes I like �
 
 <!-- star projects
 **mirianfonkam/MirianFonkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<img src="https://media.giphy.com/media/DwppxXGiaP5LMErFCC/giphy.gif" width="480" height="480">
+https://media.giphy.com/media/XkHwQ0L0CC9VcUqB8m/giphy.gif
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
