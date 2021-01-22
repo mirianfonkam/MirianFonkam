@@ -2,7 +2,7 @@
 
 Welcome to my universe! Here you can find some of my projects and codes I like ⭐. I am embarking on journey to becoming an ✨app dev✨. Would you like to join me 🚀? I am glad that, in this immense constellation 🌌 of codes, we managed to (somehow) cross paths. 
 
-#### Find out more about me 🌐
+### More about me 🌐
 
 <a href="https://www.linkedin.com/in/mirianfonkam/" target="_blank" >
   LinkedIn
