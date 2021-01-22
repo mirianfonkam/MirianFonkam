@@ -2,7 +2,7 @@
 
 Welcome to my universe! Here you can find some of my projects and codes I like ⭐. I am embarking on journey to becoming an ✨app dev✨. Would you like to join me 🚀? I am glad that, in this immense constellation 🌌 of codes, we managed to (somehow) cross paths.
 
-<p style="align: center;">
+<p align="center">
   <img src="https://media.giphy.com/media/DwppxXGiaP5LMErFCC/giphy.gif" width="25%" height="25%" alt="astronaut"/>
 </p>
 
