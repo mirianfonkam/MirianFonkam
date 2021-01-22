@@ -2,7 +2,8 @@
 
 Welcome to my universe! Here you can find some of my projects and codes I like ⭐. I am embarking on journey to becoming an ✨app dev✨. Would you like to join me 🚀? I am glad that, in this immense constellation 🌌 of codes, we managed to (somehow) cross paths.
 
-<img src="https://media.giphy.com/media/DwppxXGiaP5LMErFCC/giphy.gif" width="480" height="480">
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://media.giphy.com/media/DwppxXGiaP5LMErFCC/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://media.giphy.com/media/DwppxXGiaP5LMErFCC/giphy.gif">via GIPHY</a></p>
 
 ### 🌐 MORE ABOUT ME 
 
@@ -14,6 +15,7 @@ Welcome to my universe! Here you can find some of my projects and codes I like �
 **mirianfonkam/MirianFonkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/DwppxXGiaP5LMErFCC/giphy.gif" width="480" height="480">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
