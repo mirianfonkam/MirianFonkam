@@ -1,10 +1,11 @@
 # Hello World 🌍, this is Mírian 💚
 
-Welcome to my universe! Here you can find some of my projects and codes I like ⭐. I am embarking on journey to becoming an ✨app dev✨. Would you like to follow me 🚀? I am glad that, in this immense constelation 🌌 of codes, we (somehow) managed to cross paths. 
+Welcome to my universe! Here you can find some of my projects and codes I like ⭐. I am embarking on journey to becoming an ✨app dev✨. Would you like to follow me 🚀? I am glad that, in this immense constellation 🌌 of codes, we (somehow) managed to cross paths. 
 
 ## Find out more about me 🌐
 
-<a href="https://www.linkedin.com/in/mirianfonkam/" target="_blank" title="Mírian's LinkenIn">
+<a href="https://www.linkedin.com/in/mirianfonkam/" target="_blank" >
+  LinkedIn
 </a>
 
 I am from São Luís-MA, Brazil. 
