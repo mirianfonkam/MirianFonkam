@@ -1,6 +1,15 @@
-### Hi there 👋
+# Hello World 🌍, this is Mírian 💚
 
-<!--
+Welcome to my universe! Here you can find some of my projects and codes I like ⭐. I am embarking on journey to becoming an ✨app dev✨. Would you like to follow me 🚀? I am glad that, in this immense constelation 🌌 of codes, we (somehow) managed to cross paths. 
+
+## Find out more about me 🌐
+
+<a href="https://www.linkedin.com/in/mirianfonkam/" target="_blank" title="Mírian's LinkenIn">
+</a>
+
+I am from São Luís-MA, Brazil. 
+
+<!-- star projects
 **mirianfonkam/MirianFonkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
