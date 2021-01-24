@@ -1,4 +1,4 @@
-## Hello World 🌍! I'm Mírian 💚
+## Hello World 🌍, I'm Mírian!
 
 Welcome to my universe! Here you can find some of my projects and codes I like ⭐. I am embarking on journey to becoming an ✨app dev✨. Would you like to join me 🚀? I am glad that, in this immense constellation 🌌 of codes, we managed to (somehow) cross paths.
 
@@ -8,7 +8,7 @@ Welcome to my universe! Here you can find some of my projects and codes I like �
 
 ### 🔭 SKILLS
 
-|JavaScript|Python|Ruby|Java|
+|JavaScript | Python | Ruby | Java|
 
 ### 🌐 MORE ABOUT ME 
 
@@ -16,7 +16,7 @@ Welcome to my universe! Here you can find some of my projects and codes I like �
 <a href="https://www.sololearn.com/Profile/5905152" target="_blank" >
   Sololearn
 </a>
-
+|
 <a href="https://www.linkedin.com/in/mirianfonkam/" target="_blank" >
   LinkedIn
 </a>
