@@ -22,8 +22,9 @@ Welcome to my universe! Here you can find some of my projects and codes I like â
 </a>
 
 ---
+by [@mirianfonkam](https://github.com/mirianfonkam) ðŸ’š
+img creds: [@LeticiaEfing](https://twitter.com/LeticiaEfing)
 
-[@mirianfonkam](https://github.com/mirianfonkam)
 
 <!-- 
 
