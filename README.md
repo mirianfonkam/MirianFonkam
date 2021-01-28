@@ -1,4 +1,6 @@
-## Hello World 🌍 It's me, Mírian!
+<h1 align="center"> Hello World 🌍 </h1> 
+
+### It's me, Mírian!
 
 Welcome to my universe! Here you can find some of my projects and codes I like ⭐. I am embarking on journey to becoming an ✨app dev✨. Would you like to join me 🚀? I am glad that, in this immense constellation 🌌 of codes, we managed to (somehow) cross paths.
 
@@ -7,11 +9,15 @@ Welcome to my universe! Here you can find some of my projects and codes I like �
 </p>
 
 
-### 🔭 SKILLS
+## 🔭 Skills
 
-| JavaScript | Python | Ruby | Java |
+<img src="https://www.sololearn.com/Icons/Courses/1024.png" width="5%" style="border-radius: 50%">
+<img src="https://www.sololearn.com/Icons/Courses/1068.png" width="5%" style="border-radius: 50%">
+<img src="https://www.sololearn.com/Icons/Courses/1073.png" width="5%" style="border-radius: 50%">
 
-### 🌐 MORE ABOUT ME 
+| JavaScript | Java | Python |
+
+## 🌐 Links 
 
 <a href="https://www.sololearn.com/Profile/5905152" target="_blank" >
   Mírian's Sololearn
