@@ -11,9 +11,9 @@ Welcome to my universe! Here you can find some of my projects and codes I like â
 
 ## ðŸ”­ Skills
 
-<img src="https://www.sololearn.com/Icons/Courses/1024.png" width="5%" style="border-radius: 50%">
-<img src="https://www.sololearn.com/Icons/Courses/1068.png" width="5%" style="border-radius: 50%">
-<img src="https://www.sololearn.com/Icons/Courses/1073.png" width="5%" style="border-radius: 50%">
+<a href="#"><img src="https://www.sololearn.com/Icons/Courses/1024.png" width="6%" style="border-radius: 50%"></a>
+<a href="#"><img src="https://www.sololearn.com/Icons/Courses/1068.png" width="6%" style="border-radius: 50%"></a>
+<a href="#"><img src="https://www.sololearn.com/Icons/Courses/1073.png" width="6%" style="border-radius: 50%"></a>
 
 | JavaScript | Java | Python |
 
