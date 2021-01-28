@@ -11,13 +11,13 @@ Welcome to my universe! Here you can find some of my projects and codes I like �
 
 ## 🔭 Skills
 
-<a href="#"><img src="https://www.sololearn.com/Icons/Courses/1024.png" width="6%" style="border-radius: 50%"></a>
-<a href="#"><img src="https://www.sololearn.com/Icons/Courses/1068.png" width="6%" style="border-radius: 50%"></a>
-<a href="#"><img src="https://www.sololearn.com/Icons/Courses/1073.png" width="6%" style="border-radius: 50%"></a>
+<a href="#"><code><img src="https://www.sololearn.com/Icons/Courses/1024.png" width="6%" style="border-radius: 50%"></code></a>
+<a href="#"><code><img src="https://www.sololearn.com/Icons/Courses/1068.png" width="6%" style="border-radius: 50%"></code></a>
+<a href="#"><code><img src="https://www.sololearn.com/Icons/Courses/1073.png" width="6%" style="border-radius: 50%"></code></a>
 
 | JavaScript | Java | Python |
 
-## 🌐 Links 
+## 🌐 Profile Links 
 
 <a href="https://www.sololearn.com/Profile/5905152" target="_blank" >
   Mírian's Sololearn
@@ -25,6 +25,10 @@ Welcome to my universe! Here you can find some of my projects and codes I like �
 |
 <a href="https://www.linkedin.com/in/mirianfonkam/" target="_blank" >
   Mírian's LinkedIn
+</a>
+|
+<a href="https://app.pluralsight.com/profile/mirianfonkam" target="_blank" >
+  Mírian's Pluralsight
 </a>
 
 ---
