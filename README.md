@@ -21,7 +21,9 @@ Bem vindo ao meu universo! Aqui você pode encontrar alguns dos meus projetos e 
 
 ## 🌐 Profile Links 
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-F0DB4F?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=F0DB4F)](https://github.com/mirianfonkam)[#]
+[![Sololearn](https://img.shields.io/badge/-My_Sololearn-F0DB4F?style=for-the-badge&labelColor=black&logo=sololearn&logoColor=F0DB4F)](https://www.sololearn.com/Profile/5905152)
+[![LinkedIn](https://img.shields.io/badge/-My_Linkedin-F0DB4F?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=F0DB4F)](https://github.com/mirianfonkam)
+[![Pluralsight](https://img.shields.io/badge/-My_Pluralsight-F0DB4F?style=for-the-badge&labelColor=black&logo=pluralsight&logoColor=F0DB4F)](https://app.pluralsight.com/profile/mirianfonkam)
 
 
 <a href="https://www.sololearn.com/Profile/5905152" target="_blank" >
