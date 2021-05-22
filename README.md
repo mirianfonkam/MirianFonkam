@@ -9,7 +9,7 @@ Welcome to my universe! Here you can find some of my projects and codes I like �
 Bem vindo ao meu universo! Aqui você pode encontrar alguns dos meus projetos e códigos que gosto ⭐. Estou embarcando na jornada para me tornar uma✨ desenvolvedora de aplicativos Android✨. Gostaria de se juntar a mim 🚀? 
 
 <p align="center">
-  <img src="https://pbs.twimg.com/media/EPYi1ysX0AEl37H?format=jpg&name=medium" width="90%" alt="Brazilian Girl Studying"/>
+  <img src="https://pbs.twimg.com/media/EPYi1ysX0AEl37H?format=jpg&name=medium" width="100%" alt="Brazilian Girl Studying"/>
 </p>
 
 ## 🔭 Skills
@@ -21,7 +21,8 @@ Bem vindo ao meu universo! Aqui você pode encontrar alguns dos meus projetos e 
 
 ## 🌐 Profile Links 
 
-[](https://img.shields.io/badge/?style=for-the-badge&logo=linkenin)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-F0DB4F?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=F0DB4F)](https://github.com/mirianfonkam)(#)
+
 
 <a href="https://www.sololearn.com/Profile/5905152" target="_blank" >
   Mírian's Sololearn
