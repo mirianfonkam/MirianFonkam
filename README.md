@@ -21,9 +21,14 @@ Bem vindo ao meu universo! Aqui você pode encontrar alguns dos meus projetos e 
 
 ## 🌐 Profile Links 
 
-[![Sololearn](https://img.shields.io/badge/-My_Sololearn-F0DB4F?style=for-the-badge&labelColor=black&logo=sololearn&logoColor=F0DB4F)](https://www.sololearn.com/Profile/5905152) _ [![LinkedIn](https://img.shields.io/badge/-My_Linkedin-F0DB4F?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=F0DB4F)](https://github.com/mirianfonkam) _ [![Pluralsight](https://img.shields.io/badge/-My_Pluralsight-F0DB4F?style=for-the-badge&labelColor=black&logo=pluralsight&logoColor=F0DB4F)](https://app.pluralsight.com/profile/mirianfonkam)
+[![Sololearn](https://img.shields.io/badge/-My_Sololearn-F0DB4F?style=for-the-badge&labelColor=black&logo=sololearn&logoColor=F0DB4F)](https://www.sololearn.com/Profile/5905152) . [![LinkedIn](https://img.shields.io/badge/-My_Linkedin-F0DB4F?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=F0DB4F)](https://github.com/mirianfonkam) . [![Pluralsight](https://img.shields.io/badge/-My_Pluralsight-F0DB4F?style=for-the-badge&labelColor=black&logo=pluralsight&logoColor=F0DB4F)](https://app.pluralsight.com/profile/mirianfonkam)
+
+---
+by [@mirianfonkam](https://github.com/mirianfonkam) 💚
+img creds: [@LeticiaEfing](https://twitter.com/LeticiaEfing)
 
 
+<!-- 
 <a href="https://www.sololearn.com/Profile/5905152" target="_blank" >
   Mírian's Sololearn
 </a>
@@ -35,13 +40,6 @@ Bem vindo ao meu universo! Aqui você pode encontrar alguns dos meus projetos e 
 <a href="https://app.pluralsight.com/profile/mirianfonkam" target="_blank" >
   Mírian's Pluralsight
 </a>
-
----
-by [@mirianfonkam](https://github.com/mirianfonkam) 💚
-img creds: [@LeticiaEfing](https://twitter.com/LeticiaEfing)
-
-
-<!-- 
 
 <p align="center">
   <img src="https://media.giphy.com/media/DwppxXGiaP5LMErFCC/giphy.gif" width="35%" height="25%" alt="astronaut"/>
