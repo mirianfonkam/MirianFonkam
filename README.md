@@ -2,12 +2,15 @@
 
 ### It's me, Mírian!
 
-Welcome to my universe! Here you can find some of my projects and codes I like ⭐. I am embarking on journey to becoming an ✨app dev✨. Would you like to join me 🚀? I am glad that, in this immense constellation 🌌 of codes, we managed to (somehow) cross paths.
+*en*
+Welcome to my universe! Here you can find some of my projects and codes I like ⭐. I am embarking on journey to becoming an ✨android app developer✨. Would you like to join me 🚀? 
+
+*pt*
+Bem vindo ao meu universo! Aqui você pode encontrar alguns dos meus projetos e códigos que gosto ⭐. Estou embarcando na jornada para me tornar uma✨ desenvolvedora de aplicativos Android✨. Gostaria de se juntar a mim 🚀? 
 
 <p align="center">
   <img src="https://pbs.twimg.com/media/EPYi1ysX0AEl37H?format=jpg&name=medium" width="90%" alt="Brazilian Girl Studying"/>
 </p>
-
 
 ## 🔭 Skills
 
@@ -16,8 +19,9 @@ Welcome to my universe! Here you can find some of my projects and codes I like �
 <a href="#"><code><img src="https://www.sololearn.com/Icons/Courses/1068.png" alt="Java" width="6%" style="border-radius: 50%"></code></a>
 <a href="#"><code><img src="https://www.sololearn.com/Icons/Courses/1073.png" alt="Python" width="6%" style="border-radius: 50%"></code></a>
 
-
 ## 🌐 Profile Links 
+
+[](https://img.shields.io/badge/?style=for-the-badge&logo=linkenin)
 
 <a href="https://www.sololearn.com/Profile/5905152" target="_blank" >
   Mírian's Sololearn
