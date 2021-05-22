@@ -21,7 +21,7 @@ Bem vindo ao meu universo! Aqui você pode encontrar alguns dos meus projetos e 
 
 ## 🌐 Profile Links 
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-F0DB4F?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=F0DB4F)](https://github.com/mirianfonkam)(#)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-F0DB4F?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=F0DB4F)](https://github.com/mirianfonkam)[#]
 
 
 <a href="https://www.sololearn.com/Profile/5905152" target="_blank" >
