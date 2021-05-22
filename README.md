@@ -21,11 +21,11 @@ Bem vindo ao meu universo! Aqui você pode encontrar alguns dos meus projetos e 
 
 ## 🌐 Profile Links 
 
-<a href=#><code>[![Sololearn](https://img.shields.io/badge/-My_Sololearn-F0DB4F?style=for-the-badge&labelColor=black&logo=sololearn&logoColor=F0DB4F)](https://www.sololearn.com/Profile/5905152)</code></a>
+<a href=#>[![Sololearn](https://img.shields.io/badge/-My_Sololearn-F0DB4F?style=for-the-badge&labelColor=black&logo=sololearn&logoColor=F0DB4F)](https://www.sololearn.com/Profile/5905152)</a>
 
 <code>[![LinkedIn](https://img.shields.io/badge/-My_Linkedin-61DBFB?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=61DBFB)](https://linkedin.com/in/mirianfonkam)</code>
 
-[![Pluralsight](https://img.shields.io/badge/-My_Pluralsight-F0DB4F?style=for-the-badge&labelColor=black&logo=pluralsight&logoColor=F0DB4F)](https://app.pluralsight.com/profile/mirianfonkam)
+<code>[![Pluralsight](https://img.shields.io/badge/-My_Pluralsight-F0DB4F?style=for-the-badge&labelColor=black&logo=pluralsight&logoColor=F0DB4F)](https://app.pluralsight.com/profile/mirianfonkam)</code>
 
 ---
 by [@mirianfonkam](https://github.com/mirianfonkam) 💚
