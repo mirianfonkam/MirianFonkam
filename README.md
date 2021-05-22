@@ -5,17 +5,17 @@
 Welcome to my universe! Here you can find some of my projects and codes I like ⭐. I am embarking on journey to becoming an ✨app dev✨. Would you like to join me 🚀? I am glad that, in this immense constellation 🌌 of codes, we managed to (somehow) cross paths.
 
 <p align="center">
-  <img src="https://pbs.twimg.com/media/EPYi1ysX0AEl37H?format=jpg&name=medium" width="100%" alt="Brazilian Girl Studying"/>
+  <img src="https://pbs.twimg.com/media/EPYi1ysX0AEl37H?format=jpg&name=medium" width="90%" alt="Brazilian Girl Studying"/>
 </p>
 
 
 ## 🔭 Skills
 
-<a href="#"><code><img src="https://www.sololearn.com/Icons/Courses/1024.png" width="6%" style="border-radius: 50%"></code></a>
-<a href="#"><code><img src="https://www.sololearn.com/Icons/Courses/1068.png" width="6%" style="border-radius: 50%"></code></a>
-<a href="#"><code><img src="https://www.sololearn.com/Icons/Courses/1073.png" width="6%" style="border-radius: 50%"></code></a>
+<a href="#"><code><img src="https://sololearnuploads.azureedge.net/uploads/courses/1160.png" alt="Kotlin" width="6%" style="border-radius: 50%"></code></a>
+<a href="#"><code><img src="https://www.sololearn.com/Icons/Courses/1024.png" alt="JavaScript" width="6%" style="border-radius: 50%"></code></a>
+<a href="#"><code><img src="https://www.sololearn.com/Icons/Courses/1068.png" alt="Java" width="6%" style="border-radius: 50%"></code></a>
+<a href="#"><code><img src="https://www.sololearn.com/Icons/Courses/1073.png" alt="Python" width="6%" style="border-radius: 50%"></code></a>
 
-| JavaScript | Java | Python |
 
 ## 🌐 Profile Links 
 
