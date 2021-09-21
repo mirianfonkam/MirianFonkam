@@ -22,7 +22,9 @@ Bem vindos ao meu universo! Aqui você pode encontrar alguns dos meus projetos e
 
 ## 🌐 Profile Links 
 
-<code>[![Sololearn](https://img.shields.io/badge/-My_Sololearn-F0DB4F?style=for-the-badge&labelColor=black&logo=sololearn&logoColor=F0DB4F)](https://www.sololearn.com/Profile/5905152)</code>   <code>[![LinkedIn](https://img.shields.io/badge/-My_Linkedin-61DBFB?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=61DBFB)](https://linkedin.com/in/mirianfonkam)</code>   <code>[![Pluralsight](https://img.shields.io/badge/-My_Pluralsight-F0DB4F?style=for-the-badge&labelColor=black&logo=pluralsight&logoColor=F0DB4F)](https://app.pluralsight.com/profile/mirianfonkam)</code>
+<code>[![Sololearn](https://img.shields.io/badge/-My_Sololearn-F0DB4F?style=for-the-badge&labelColor=black&logo=sololearn&logoColor=F0DB4F)](https://www.sololearn.com/Profile/5905152)</code> <code>[![LinkedIn](https://img.shields.io/badge/-My_Linkedin-61DBFB?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=61DBFB)](https://linkedin.com/in/mirianfonkam)</code> <code>[![Google Dev Profile](https://img.shields.io/badge/-Google_Developer_Profile-61fb70?style=for-the-badge&labelColor=black&logo=android&logoColor=61fb70)](https://developers.google.com/profile/u/117547292288088220884)</code>  <code>[![Pluralsight](https://img.shields.io/badge/-My_Pluralsight-F0DB4F?style=for-the-badge&labelColor=black&logo=pluralsight&logoColor=F0DB4F)](https://app.pluralsight.com/profile/mirianfonkam)</code>
+
+
 
 
 ---
@@ -31,22 +33,6 @@ img creds: [@LeticiaEfing](https://twitter.com/LeticiaEfing)
 
 
 <!-- 
-<a href="https://www.sololearn.com/Profile/5905152" target="_blank" >
-  Mírian's Sololearn
-</a>
-|
-<a href="https://www.linkedin.com/in/mirianfonkam/" target="_blank" >
-  Mírian's LinkedIn
-</a>
-|
-<a href="https://app.pluralsight.com/profile/mirianfonkam" target="_blank" >
-  Mírian's Pluralsight
-</a>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/DwppxXGiaP5LMErFCC/giphy.gif" width="35%" height="25%" alt="astronaut"/>
-</p>
-
 **mirianfonkam/MirianFonkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://media.giphy.com/media/XkHwQ0L0CC9VcUqB8m/giphy.gif
 -->
