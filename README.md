@@ -23,7 +23,10 @@ Bem vindo ao meu universo! Aqui você encontra alguns dos meus projetos e códig
 
 ## 🌐 Profile Links 
 
-<code>[![Sololearn](https://img.shields.io/badge/-My_Sololearn-f0aa4f?style=for-the-badge&labelColor=black&logo=sololearn&logoColor=f0aa4f)](https://www.sololearn.com/Profile/5905152)</code> <code>[![LinkedIn](https://img.shields.io/badge/-My_Linkedin-61DBFB?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=61DBFB)](https://linkedin.com/in/mirianfonkam)</code> <code>[![Google Dev Profile](https://img.shields.io/badge/-Google_Developer_Profile-61fb70?style=for-the-badge&labelColor=black&logo=android&logoColor=61fb70)](https://g.dev/mirianfonkam)</code>  <code>[![Pluralsight](https://img.shields.io/badge/-My_Pluralsight-F0DB4F?style=for-the-badge&labelColor=black&logo=pluralsight&logoColor=F0DB4F)](https://app.pluralsight.com/profile/mirianfonkam)</code> <code>[![HackerRank](https://img.shields.io/badge/-HackerRank_Profile-61fb70?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=61fb70)](https://www.hackerrank.com/mirianfonkam)</code>
+<code>[![LinkedIn](https://img.shields.io/badge/-Linkedin_Profile-61DBFB?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=61DBFB)](https://linkedin.com/in/mirianfonkam)</code> 
+<code>[![Sololearn](https://img.shields.io/badge/-Sololearn_Profile-f0aa4f?style=for-the-badge&labelColor=black&logo=sololearn&logoColor=f0aa4f)](https://www.sololearn.com/Profile/5905152)</code> 
+<code>[![Google Dev Profile](https://img.shields.io/badge/-Google_Developer_Profile-61fb70?style=for-the-badge&labelColor=black&logo=android&logoColor=61fb70)](https://g.dev/mirianfonkam)</code> <code>[![Hyperskill](https://img.shields.io/badge/-HyperSkill_Profile-c9adf8?style=for-the-badge&labelColor=black&logo=hyperskill&logoColor=c9adf8)](https://hyperskill.org/profile/613527847)</code> <code>[![HackerRank](https://img.shields.io/badge/-HackerRank_Profile-61fb70?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=61fb70)](https://www.hackerrank.com/mirianfonkam)</code> 
+<code>[![Pluralsight](https://img.shields.io/badge/-Pluralsight_Profile-F0DB4F?style=for-the-badge&labelColor=black&logo=pluralsight&logoColor=F0DB4F)](https://app.pluralsight.com/profile/mirianfonkam)</code>
 
 ---
 by [@mirianfonkam](https://g.dev/mirianfonkam) 💚
