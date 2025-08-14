@@ -22,7 +22,9 @@ Bem vindo ao meu universo! Aqui você encontra alguns dos meus projetos e códig
 
 ## 🌐 Profile Links 
 
+
 <code>[![LinkedIn](https://img.shields.io/badge/-Linkedin_Profile-61DBFB?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=61DBFB)](https://linkedin.com/in/mirianfonkam)</code> 
+<code>[![LinkedIn](https://img.shields.io/badge/-Coursera_Profile-61DBFB?style=for-the-badge&labelColor=black&logo=coursera&logoColor=61DBFB)](https://www.coursera.org/learner/mirian)</code> 
 <code>[![Hyperskill](https://img.shields.io/badge/-HyperSkill_Profile-c9adf8?style=for-the-badge&labelColor=black&logo=hyperskill&logoColor=c9adf8)](https://hyperskill.org/profile/613527847)</code>
 <code>[![Leetcode](https://img.shields.io/badge/-Leetcode_Profile-FFFFFF?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=FFFFFF)](https://leetcode.com/u/mirianfonkam/)</code>
 <code>[![Sololearn](https://img.shields.io/badge/-Sololearn_Profile-f0aa4f?style=for-the-badge&labelColor=black&logo=sololearn&logoColor=f0aa4f)](https://www.sololearn.com/Profile/5905152)</code> 
